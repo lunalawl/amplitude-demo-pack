@@ -1,0 +1,2 @@
+IP freqnet2002-prod.pdonline.scea.com
+PORT 10075
