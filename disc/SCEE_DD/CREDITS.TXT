@@ -1,0 +1,92 @@
+MENU GRAPHICS AND DESIGN
+Pete Johnson
+
+
+MENU MUSIC
+Pete Johnson
+Jason Page
+
+
+DEMO SDK DESIGN AND PROGRAMMING
+Mike Dean
+
+
+MENU AND FONT SYSTEM PROGRAMMING
+Phil Rogers
+
+
+MENU GRAPHICS PROGRAMMING
+James Burns
+
+
+DEMO ROOM PROGRAMMERS
+John Cassidy
+Jamie Kenyon
+
+
+TRANSLATION TESTERS
+Nadège Josa
+Domenico Visone
+Susana Paredes
+Miguel Ataz
+Soledad Marco
+
+
+TRANSLATION MANAGEMENT
+Domenico Visone
+
+
+TRC TESTERS
+Phil Adams
+Jimmy Areabi
+Phil Bramhill
+Clark Davies
+Barrie Devlin
+Barry Draper
+John Hall
+Dean Houghton
+Ste Jones
+Ste McCann
+Anna McDonald
+Gary Morell
+Andy Naylor
+Russ Redmond
+James Warburton
+Nathan Ward
+Simon Wong
+
+
+TRC LEAD TESTERS
+Mike Bygrave
+Dave Jenions
+Nick Jones
+
+
+TRC SUPERVISOR
+Miles Rotherham
+
+
+TECHNICAL ASSISTANT
+Mark Magill
+
+
+TECHNICAL CO-ORDINATOR
+Miranda Latham
+
+
+INTERNAL DEVELOPMENT DEMO CO-ORDINATOR
+Jenni Rees
+
+
+ASSISTANT PRODUCER
+Lorraine Wragg
+
+
+PRODUCER
+Richard Milner
+
+
+Copyright 2003
+Sony Computer Entertainment Europe
+
+A 'Special' Production
